@@ -1,5 +1,5 @@
 <h1 align="center">Agent Bot</h1>
-> Agent é um bot privado, desenvolvido com Nodejs e Discord.js, com o propósito de automatizar tarefas dentro de um servidor de Discord chamado [Elite Penguin Force](). O servidor reúne administradores, moderadores e desenvolvedores de grandes servidores brasileiros, juntos, formamos uma comunidade onde compartilhamos experiências de administração, ferramentas, metodologias, serviços e muito mais.
+> Agent é um bot privado, desenvolvido com Nodejs e Discord.js, com o propósito de automatizar tarefas dentro de um servidor de Discord chamado [Elite Penguin Force](https://github.com/BREN0sx). O servidor reúne administradores, moderadores e desenvolvedores de grandes servidores brasileiros, juntos, formamos uma comunidade onde compartilhamos experiências de administração, ferramentas, metodologias, serviços e muito mais.
 
 <p align='middle'>
   <img src="https://user-images.githubusercontent.com/32278696/200096419-aeb7c30a-f341-4f36-a7f7-b37aab27861e.png" width='25%'/>
