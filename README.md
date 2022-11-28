@@ -1,5 +1,4 @@
-
-# Agent Bot
+<h1 align="center">Agent Bot</h1>
 > Agent é um bot privado, desenvolvido com Nodejs e Discord.js, com o propósito de automatizar tarefas dentro de um servidor de Discord chamado [Elite Penguin Force](). O servidor reúne administradores, moderadores e desenvolvedores de grandes servidores brasileiros, juntos, formamos uma comunidade onde compartilhamos experiências de administração, ferramentas, metodologias, serviços e muito mais.
 
 <p align='middle'>
@@ -64,3 +63,6 @@ Inicie o projeto com o comando abaixo
 ```bash
 npm run dev
 ```
+## License
+
+This repository is under the [AGPL-3.0](https://github.com/BREN0sx/AgentBot/blob/main/LICENSE) license.
