@@ -5,6 +5,7 @@
 <p align='middle'>
   <img src="https://user-images.githubusercontent.com/32278696/200096419-aeb7c30a-f341-4f36-a7f7-b37aab27861e.png" width='25%'/>
 </p>
+
 ## Testando localmente
 
 Primeiramente, [Node.js](https://nodejs.org) precisa estar instalado na máquina.
