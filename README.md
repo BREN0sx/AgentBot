@@ -21,7 +21,7 @@ Instale as dependências do projeto
 ```bash
 npm install
 ```
-
+ 
 Antes de iniciar o projeto, é importante criar um arquivo `.env` na raiz do diretório e definir as seguintes variáveis
 
 ```env
